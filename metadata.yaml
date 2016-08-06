@@ -1,0 +1,26 @@
+_repo: The-Spenders--A-Tale-of-the-Third-Generation_9981
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Harry Leon
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '1206'
+    url: http://www.gutenberg.org/2009/agents/1206
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+title: 'The Spenders: A Tale of the Third Generation'
+url: http://www.gutenberg.org/ebooks/9981
